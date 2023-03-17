@@ -4,7 +4,8 @@
     --color: white;
 
     /* Colours */
-    --blue-background-color:#001253;
+    /* --blue-background-color: #001253; */
+    --blue-background-color: black;
     --orange-background-color: #E14D2A;
 }
 
