@@ -174,7 +174,7 @@ dir img{
     height: 100%;
     margin-bottom: 2.5%;
 
-    background: url(/images/Hero/Hero.jpg);
+    background: url(../images/Hero/Hero.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
